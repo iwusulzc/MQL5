@@ -1,3 +1,7 @@
+#MQL5
+*.ex5
+*.dat
+
 # Prerequisites
 *.d
 
